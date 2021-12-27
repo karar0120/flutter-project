@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965261633906",
+    "project_id": "shop-app-4eff4",
+    "storage_bucket": "shop-app-4eff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965261633906:android:9ff8c08db0038ecd3795eb",
+        "android_client_info": {
+          "package_name": "com.example.recpie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965261633906-ctm964b3hq8d4unc687q0pkt363ue02l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recpie",
+            "certificate_hash": "1970e2cc12259d52ce596335c880667860b28f4f"
+          }
+        },
+        {
+          "client_id": "965261633906-4akgurhcrehd00pplppqunidgvn33rb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOf5nWm2YopmjxhPCA08hXGlt3jAtYnPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965261633906-4akgurhcrehd00pplppqunidgvn33rb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
